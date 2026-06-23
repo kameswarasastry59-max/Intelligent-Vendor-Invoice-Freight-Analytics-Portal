@@ -1,8 +1,0 @@
-[tool.poetry]
-name = "intelligent-invoicing"
-version = "0.1.0"
-description = ""
-authors = ["Gandikota Sastry kameswarasastry59@gmail.com"]
-package-mode = false  # <--- ADD THIS LINE
-
-# ... rest of the file ...
